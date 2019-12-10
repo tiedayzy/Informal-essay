@@ -1,5 +1,5 @@
 {
-  "name": "tiedayzy/Informal-essay",
+  "name": "tiedayzy/informal-essay",
   "require": {
     "predis/predis": "~1.0"
   }
